@@ -10,7 +10,7 @@
 
 - 💬 Contactame para nuevas oportunidades laborales como **desarrollador Web FullStack.**
 
-<h3 align="left">Connect with me:</h3>
+<h2> Contactame <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ramiro-diaz-bravo-full-stack-developer/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ramiro-diaz-bravo-full-stack-developer/" height="30" width="40" /></a>
   <a href="mailto:bravoramirodiaz@gmail.com" target="blank"><img align="center" src="https://1000marcas.net/wp-content/uploads/2019/11/logo-Gmail-1-768x432.png" alt="https://www.google.com/imgres?imgurl=https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Logo_Gmail_%25282015-2020%2529.svg/2560px-Logo_Gmail_%25282015-2020%2529.svg.png&imgrefurl=https://es.m.wikipedia.org/wiki/Archivo:New_Logo_Gmail.svg&tbnid=eE4kp85qaFD70M&vet=1&docid=Ag_6z0Mwt-kNGM&w=2560&h=1940&hl=es-US&source=sh/x/im" height="30" width="40" /></a>
