@@ -1,4 +1,3 @@
-# RamiroDiaz22
 <h1 align="center">Hola 👋, soy Ramiro Diaz</h1>
 <h3 align="center">Un desarrollador Web Full Stack</h3>
 
