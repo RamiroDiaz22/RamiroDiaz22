@@ -3,7 +3,7 @@
 
 - 🔭 Actualmente estoy trabajando en **proyectos personales.**
 
-- 🌱 Quiero aprender **React Native, Angular, C++, Python, Jav y otros...**
+- 🌱 Quiero aprender **React Native, Angular, C++, Python, Java y otros...**
 
 - 👯 Busco colaborar en **proyectos grupales y más**
 
